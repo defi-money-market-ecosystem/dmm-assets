@@ -1,0 +1,1 @@
+linear-gradient(1turn,#327ccb,#4f94de 5%,#8bbbef 15%,#bdddff 25%,#deeeff 40%)
